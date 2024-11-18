@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f8f8;
+}
+
+img {
+    padding: 0%;
+}
+section {
+    background-color: #f4f4f4;
+    padding: 40px 20px;
+    text-align: center;
+  }
+
+  body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ69gkUBnBZvOaeccgz36EmOP3_6rmQ8hrcaQ&s');
+    background-size: cover; 
+    background-position: center center; 
+    background-attachment: fixed;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    color: #333; 
+  }
